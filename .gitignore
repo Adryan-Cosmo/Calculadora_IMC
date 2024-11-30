@@ -1,0 +1,34 @@
+# Diretórios de build
+/build/
+/.idea/
+/.gradle/
+/app/build/
+/captures/
+
+# Arquivos de configuração locais
+/local.properties
+/.settings/
+
+# Arquivos gerados automaticamente
+.DS_Store
+*.iml
+
+# Configurações de cache e IntelliJ
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/shelf/
+
+# Informações específicas de ambiente
+*.keystore
+*.jks
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
+# Sistema operacional
+Thumbs.db
+desktop.ini
+
